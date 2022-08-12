@@ -6,14 +6,4 @@ on this their chosen battle field
 I write now code
 ---------------
 ---------------
-News ))))))))
-
-13.40
-
-14.55))
-15.16 !!!!!!!!!
-<<<<<<< HEAD
-now
-=======
-Now!!!!!!!!!!!!
->>>>>>> feature
+In main
